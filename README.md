@@ -6,7 +6,6 @@ Data Analyst and Software Engineer
 
 * 🌍  I'm based in San Fransisco Bay Area
 * ✉️  You can contact me at [josepha@berkeley.edu](mailto:josepha@berkeley.edu)
-* 🧠  I'm learning Node.js
 
 ### Skills
 

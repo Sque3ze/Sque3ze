@@ -1,20 +1,32 @@
-Hi im Joseph Saldivar
-=======================================================================================================================================
+# Hey, I am Joseph 👋
 
-Software Engineer and Data Scientist
-----------------------------------
+I am a software engineer and UC Berkeley Data Science grad. I spend most of my time building full stack and AI projects. I’ve been working as a software developer testing and evaluating beta versions of major coding models, and now I’m looking to join a startup or similar company where I can grow my skills faster and put my entrepreneurial mindset to work.
 
-* 🌍  I'm based in San Fransisco Bay Area
-* ✉️  You can contact me at [josepha@berkeley.edu](mailto:josepha@berkeley.edu)
-
-### Skills
-
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+- 📍 San Francisco Bay Area  
+- 🎓 UC Berkeley Data Science, Class of 2025  
+- 🤖 Proficient and up to date with all major AI coding tools and frameworks (Codex, Claude, Cursor, Gemini, etc.)
+- ⚡ Will learn anything quickly
+  
+<p align="center">
+  <img src="./yc-pic.jpg" alt="Me at a Y Combinator hackathon" width="350" />
 </p>
 
+### Why Me
+- Comfortable living inside modern AI dev tools and I'll evolve with the tech (every other week nowadays)
+- Recently pitched my own idea at a Y Combinator hackathon to YC investors, and I am just getting started.
+- I've shipped fullstack products that live and work in the cloud, not just school projects
+- First gen with no tech connections and worked my way to a UC Berkeley degree, so grit is not a question
 
-### Socials
+Below are some of the things I'm most familiar with but I'm confident I can pick up anything you need me to
+### Tech Stack
 
-<p align="left"> <a href="https://www.github.com/Sque3ze" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/josephasaldivar/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+**Languages:** `Python` `TypeScript` `JavaScript` `SQL` `Java`
+**Frontend:** `React` `Next.js` `Expo` `React Native` `Tailwind` `shadcn/ui`  
+**Backend and data:** `Node` `PostgreSQL` `Supabase` `pgvector` 
+**Cloud and DevOps:** `AWS` `Vercel` `Docker` `Pulumi`  
+**Observability:** `OpenTelemetry` `Prometheus` `Grafana`
+
+### Contact
+
+- ✉️ `josepha@berkeley.edu` or `josephsaldivarg@gmail.com`  
+- 💼 [LinkedIn](https://www.linkedin.com/in/josephasaldivar/)
